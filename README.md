@@ -3,13 +3,13 @@ metodNum
 
 metodos numericos super facil ☺.
 
-## Instalacion
+## Instalación:
 
-From an R console (R >= 3.4.0):
+>install.packages("devtools")<br/>
+**devtools::install_github("luisxsuper/metodNum")** <br>
 
-install.packages("devtools")<br/>
-library(devtools)<br/>
-install_github("luisxsuper/metodNum")
+[**Luis Fernando M. ☺**](mailto:luisfer4222@gmail.com)
 
+[**R-web**](https://luisxsuper.github.io/)
 
 
