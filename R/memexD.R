@@ -1,6 +1,6 @@
 #' ->>>Extra<<<-
-#' @aliases Z:_Generando_un_Meme
-#' @description Genera Un meme xD, con el paquete \code{"png"}.
+#' @aliases Z: Generando un Meme
+#' @description Genera Un meme xD, requiere paquete \code{"png"}.
 #' @examples
 #'  require(png)
 #'  meme()
