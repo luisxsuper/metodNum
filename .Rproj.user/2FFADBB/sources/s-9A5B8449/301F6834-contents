@@ -1,7 +1,7 @@
 Package: metodNum
 Type: Package
 Title: Metodos Numericos
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: person("Luis Maron", email = "luisfer4222@gmail.com", role = c("aut", "cre"))
 Description: Utilizacion de principales metodos numericos
 Depends: R (>= 3.4.0)
