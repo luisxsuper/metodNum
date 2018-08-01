@@ -1,6 +1,6 @@
 \name{A. Metodos Numericos:}
-\alias{A. Metodos_Numericos :}
-\encoding{UTF-8}
+\alias{A)Metodos Numericos :}
+\encoding{utf-8}
 \title{ \deqn{Paquete Métodos Numéricos}}
 \details{
 Package:    metodNum \cr

@@ -2,6 +2,7 @@
 #' @aliases Z: Generando un Meme
 #' @description Genera Un meme xD, requiere paquete \code{"png"}.
 #' @examples
+#' # ☺
 #'  require(png)
 #'  meme()
 #' @export
