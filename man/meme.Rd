@@ -2,7 +2,7 @@
 % Please edit documentation in R/memexD.R
 \name{meme}
 \alias{Z) Generando Meme:}
-\title{->>>Extra<<<-}
+\title{Un MEME ☺}
 \usage{
 meme()
 }
