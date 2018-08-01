@@ -1,13 +1,14 @@
 Package: metodNum
 Type: Package
 Title: Metodos Numericos
-Version: 1.0.1
-Authors@R: person("Luis", "Maron", email = "luisfer4222@gmail.com", role = c("aut", "cre"))
+Version: 1.0.2
+Authors@R: person("Luis Maron", email = "luisfer4222@gmail.com", role = c("aut", "cre"))
 Description: Utilizacion de principales metodos numericos
 Depends: R (>= 3.4.0)
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
+Imports: png (>= 0.1)
 RoxygenNote: 6.0.1
 Suggests: knitr,
     rmarkdown
