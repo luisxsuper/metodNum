@@ -5,7 +5,7 @@
 \title{Data Vacia missing
 xD}
 \usage{
-vaciosxD(data, por, plot)
+vaciosxD(data, por = 0.7, plot = F)
 }
 \arguments{
 \item{data}{Data}
