@@ -8,7 +8,7 @@ metodos numericos super facil ☺.
 >install.packages("devtools")<br/>
 **devtools::install_github("luisxsuper/metodNum")** <br>
 
-[**Luis Fernando M. ☺**](mailto:luisfer4222@gmail.com)
+[**Luis Fernando M. ☺**](mailto:luisxmaron@gmail.com)
 
 [**R-web**](https://luisxsuper.github.io/)
 
