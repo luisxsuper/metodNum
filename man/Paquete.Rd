@@ -1,5 +1,5 @@
 \name{A. Metodos Numericos:}
-\alias{A)Metodos Numericos :}
+\alias{A) Metodos Numericos:}
 \encoding{utf-8}
 \title{ \deqn{Paquete Métodos Numéricos}}
 \details{

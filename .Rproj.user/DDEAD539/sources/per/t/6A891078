@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555596622967.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2296842269",
+    "id" : "6A891078",
+    "lastKnownWriteTime" : 1555597703,
+    "last_content_update" : 1555597703665,
+    "path" : "~/GitHub/metodNum/R/memexD.R",
+    "project_path" : "R/memexD.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

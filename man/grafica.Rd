@@ -15,7 +15,7 @@ grafica(fun, a, b)
 \item{b}{Limite final, derecho}
 }
 \value{
-\code{Grafiquiro}.
+\code{Grafiquito}.
 }
 \description{
 Grafica de Funcion
@@ -27,5 +27,5 @@ xD
  grafica(fn, -5, 5)
 }
 \author{
-\strong{Luis Maron.}
+\strong{Luis F. Maron}
 }

@@ -3,8 +3,8 @@
 #' @param fun Funcion
 #' @param a Limite inicial, izquierdo
 #' @param b Limite final, derecho
-#' @return  \code{Grafiquiro}.
-#' @author \strong{Luis Maron.}
+#' @return  \code{Grafiquito}.
+#' @author \strong{Luis F. Maron}
 #' @examples
 #' ##-----Ejemplito------
 #'  fn <- function(x) x**3-5*x
