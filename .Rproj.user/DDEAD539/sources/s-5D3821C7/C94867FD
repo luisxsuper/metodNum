@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "64037958",
+    "hash" : "0",
     "id" : "C94867FD",
-    "lastKnownWriteTime" : 1555598739,
-    "last_content_update" : 1555598739027,
+    "lastKnownWriteTime" : 1555613686,
+    "last_content_update" : 1555613686167,
     "path" : "~/GitHub/metodNum/R/vacios.R",
     "project_path" : "R/vacios.R",
     "properties" : {
-        "cursorPosition" : "12,42",
+        "cursorPosition" : "20,57",
         "scrollLine" : "11"
     },
     "relative_order" : 1,
