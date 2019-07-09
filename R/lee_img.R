@@ -38,6 +38,6 @@ carga_data <- function(dirr, canal){
       if(i==0 )data_train2 <- data_train
    }
    data_train2 <- rbind(data_train2,data_train)
-   cat("\n\t Leendo By LFMI\n")
+   cat("\n\t TRUE\n")
    return(data_train2)
 }
