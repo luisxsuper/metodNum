@@ -7,6 +7,7 @@
 #' @examples
 #' ##-----Ejemplito------
 #'   data <- carga_data("E:/LuisxM/Desktop/idc", "red")
+#'   data <- carga_data("E:/LuisxM/Desktop/idc", "blue")
 #' @export
 
 carga_data <- function(dirr, canal){
@@ -33,7 +34,7 @@ carga_data <- function(dirr, canal){
       zz_f <- do.call("rbind", lapply(z_f, as.numeric))
       data_train <- data.frame(zz,zz_f, "cancer" = i)
       name <- c("min","x1st_qu", "median", "mean", "x3rd_qu" ,"max")
-      names(data_train)<- c(name, paste0(name, "2"),"label")
+      names(data_train)<- c(name, paste0(name, "2"), "label")
       if(i==0 )data_train2 <- data_train
    }
    data_train2 <- rbind(data_train2,data_train)

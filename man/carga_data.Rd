@@ -22,6 +22,7 @@ xD
 \examples{
 ##-----Ejemplito------
   data <- carga_data("E:/LuisxM/Desktop/idc", "red")
+  data <- carga_data("E:/LuisxM/Desktop/idc", "blue")
 }
 \author{
 \strong{Luis F. Maron}
